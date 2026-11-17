@@ -1,0 +1,6 @@
+{
+  "name": "Parnell Pines Hotel",
+  "description": "Luxurious boutique hotel in Parnell, Auckland offering exquisite rooms, fine dining, and timeless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
